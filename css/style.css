@@ -1,6 +1,44 @@
-.escopoprincipal{
 
-    margin: auto;
-    background-color: black;
+
+.titulo {
+
+    font-size: xx-large;
+    text-align: center;
+    color: darksalmon;
+    margin-top: 20px;
 }
+
+
+
+.row{
+
+    margin-top: 50px;
+}
+
+
+.col-md-5 {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+    
+}
+
+.col-md-7 {
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 60.333333%;
+  }
+
+.featurette-image{
+
+    border: 5px solid;
+    border-color: gray;
+    border-radius: 10px;
+}
+
+.featurette-heading{
+     
+    font-size: xx-large;
+}
+
 
