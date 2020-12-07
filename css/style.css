@@ -13,13 +13,17 @@
 .rodape{
 
     widows: 600px; 
-    height: 200px;
+    height: 300px;
     background-color: darkslateblue;
+    bottom:0;
+    width:100%;
 
 }
 
+.titulo1, .titulo2, .titulo3,.subtitulo1,.subtitulo2,.subtitulo3 {
 
-
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
 
 .row{
 
