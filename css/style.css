@@ -1,28 +1,25 @@
-@font-face{
-    font-family: Anton-Regular;
-    src: local(Anton-Regular), url(https://fonts.googleapis.com/css2?family=Texturina:wght@100&display=swap);
-}
-
 .titulo {
 
     font-size: xx-large;
     text-align: center;
     margin-top: 20px;
+    
 }
 
 .rodape{
 
-    widows: 600px; 
-    height: 300px;
-    background-color: darkslateblue;
-    bottom:0;
-    width:100%;
-
+    margin-top: 10%;
 }
 
 .titulo1, .titulo2, .titulo3,.subtitulo1,.subtitulo2,.subtitulo3 {
 
     text-shadow: 0.1em 0.1em 0.2em black;
+   
+}
+
+.rodape{
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 .row{
