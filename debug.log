@@ -3,3 +3,10 @@
 [1217/092533.269:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
 [1217/141834.345:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
 [1223/163645.338:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1228/112123.626:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1228/113321.585:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1228/113950.344:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1228/114607.957:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1230/121758.232:ERROR:crash_report_database_win.cc(455)] unexpected header
+[1230/122510.428:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0104/151204.761:ERROR:crash_report_database_win.cc(455)] unexpected header
